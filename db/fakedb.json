@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "id" : "",
+            "username" : "",
+            "email" : "",
+            "password" : "",
+            "token" : ""
+        }
+    ],
+
+    "photos" : [
+        {
+            "id" : "",
+            "titile" : "",
+            "path" : "",
+            "authorId" : ""
+
+        }
+
+    ]
+}
